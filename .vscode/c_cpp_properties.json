@@ -4,7 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/mingw64/freeglut/include"
+                "C:/mingw64/freeglut/include",
+                "C:/mingw64/glew/include",
+                "C:/mingw64/glm"
             ],
             "defines": [
                 "_DEBUG",
